@@ -1,7 +1,3 @@
-
-
-
-
 var config = {
   container: 'map',
   style: "mapbox://styles/erikrenglish/cl8blt1d5000414nvo2z327c5",
@@ -21,11 +17,7 @@ var config = {
   useCustomLayers: false, //set true for enabling custom layers from sources.js
   bookmarks: true,
   chapterReturn: true,
-  title: "Mapped: The worst epidemics and pandemics in human history",
   logo: "",
-  subtitle:
-    "Even the dead tell stories",
-  byline: "Roughly 5,000 years ago in inner Mongolia, the bodies of some 97 humans were stuffed into a small old house and set ablaze. Known today as “Hamin Mangha”, it is one of the best-preserved prehistoric sites and is evidence of one of the earliest epidemics in human history. While the disease is not known, it is clear that the survivors acted quickly to isolate the bodies of the afflicted and abandon the village never to return. The history of human civilization is riddled with grizzly stories of epidemics–some borne out of nature and others through war. As early as the transition from hunter-gatherer to agrarian societies, the conditions for the spread of disease existed. As early empires stretched across the global landscape, they brought with them a score of new diseases as viruses clung to new hosts that provided the means to spread. Global trade networks, industrialization, and war would further add to the bodycount. Epidemics and pandemics have changed the course of history and destroyed civilizations. While no two epidemics are the same, it bears looking at the choices made in the past and understanding not just how pandemics begin, but how humans react to the diseases they confront. Perhaps we can learn something from the mistakes of the past, or at least be a little less surprised when they slink out of the forest.",
   mobileview:
     '<div id="rotate-mobile"><em>For optimal viewing of this storytelling map on mobile, rotate your device to a horizontal orientation.</em><br><br><img src="https://cdn-icons-png.flaticon.com/512/41/41707.png">', // to add custom messaging in the header for mobile devices
   footer:
@@ -39,7 +31,7 @@ var config = {
       alignment: "right",
       hidden: false,
       title: "",
-      image: "https://www.alpharesumes.com.au/wp-content/uploads/2018/11/Scroll-Down-icon-Home.gif",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_angel_of_death_striking_a_door_during_the_plague_of_Rome_Wellcome_V0010664.jpg/2880px-The_angel_of_death_striking_a_door_during_the_plague_of_Rome_Wellcome_V0010664.jpg",
       caption: "",
       website: '<a href="" target="_blank"></a>',
       author: "",
@@ -82,7 +74,7 @@ var config = {
       hidden: false,
       title: "The Antonine Plague",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_angel_of_death_striking_a_door_during_the_plague_of_Rome_Wellcome_V0010664.jpg/2880px-The_angel_of_death_striking_a_door_during_the_plague_of_Rome_Wellcome_V0010664.jpg",
+        "",
       caption: "The angel of death striking a door during the plague of Rome (Wikimedia Commons)",
       website: '<a href="" target="_blank"></a>',
       author: "",
