@@ -14,7 +14,7 @@ var config = {
   theme: "dark",
   use3dTerrain: true, //set true for enabling 3D maps.
   useCustomLayers: false, //set true for enabling custom layers from sources.js
-  bookmarks: true,
+  bookmarks: false,
   chapterReturn: false,
   logo: "",
   mobileview:
@@ -22,6 +22,75 @@ var config = {
   footer: "",
 
   chapters: [
+    
+       {
+      id: "reset",
+      alignment: "right",
+      hidden: false,
+      title: "The Antonine plague",
+      image:
+        "https://upload.wikimedia.org/wikipedia/commons/7/7d/Jules-%C3%89lie_Delaunay_1859_La_peste_%C3%A0_Rome.jpg?20190616154201",
+      caption:
+        "Peste à Rome | Plague in Rome. (Jules-Élie Delaunay, Public domain, via Wikimedia Commons)",
+      author: "",
+      legend:
+        " ",
+      description:
+        "Evidence of smallpox has been found as far back as <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/'>1570 BCE in Egypt</a>, but as will be seen, the existence of a disease is only one part of what it takes to make an epidemic. The earliest major smallpox epidemic was the Antonine plague, estimated to have killed <a href='https://www.jstor.org/stable/293979'>5–10</a> million people, between a quarter and a third of the Roman population.",
+      location: {
+        center: [12.49, 41],
+        zoom: 2,
+        pitch: 20,
+        bearing: 0,
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      spinGlobe: false,
+      mapInteractive: true,
+      callback: "",
+      onChapterEnter: [
+        {
+          layer: "roman-empire-180",
+          opacity: 0,
+        },
+        {
+          layer: "mex-lang",
+          opacity: 0,
+        },
+        {
+          layer: "blackdeath",
+          opacity: 0,
+        },
+        {
+          layer: "byzantium",
+          opacity: 0,
+        },
+        {
+          layer: "traderoutes",
+          opacity: 0,
+        },
+        {
+          layer: "hiv-share",
+          opacity: 0,
+        },
+        {
+          layer: "covid-19",
+          opacity: 0,
+        },
+        {
+          layer: "johnsnowdata",
+          opacity: 0,
+        },
+      ],
+      onChapterExit: [
+        {
+          
+        },
+      ],
+    },
+    
+        // ANTONINE PLAGUE
+
     {
       id: "antonine0",
       alignment: "right",
@@ -30,7 +99,7 @@ var config = {
       image:
         "https://upload.wikimedia.org/wikipedia/commons/7/7d/Jules-%C3%89lie_Delaunay_1859_La_peste_%C3%A0_Rome.jpg?20190616154201",
       caption:
-        "Peste à Rome | Plague in Rome. (Jules-Élie Delaunay, Public domain, via Wikimedia Commons",
+        "Peste à Rome | Plague in Rome. (Jules-Élie Delaunay, Public domain, via Wikimedia Commons)",
       author: "",
       legend:
         '<span style="font-size: 0.85em;"><em><b>The Antonine plague</b><br>Smallpox<br>165–180 C.E.<br>5–10 million dead<br>Map: <a href="https://github.com/maptiler/roman-empire/blob/master/data/provinces.geojson"target="_blank" rel="noopener noreferrer">Roman Empire</a></em></span>',
@@ -72,13 +141,11 @@ var config = {
       ],
       onChapterExit: [
         {
-          // layer: "roman-empire-180",
-          // opacity: 0.5,
+           layer: "roman-empire-180",
+           opacity: 0.5,
         },
       ],
     },
-
-    // ANTONINE PLAGUE
 
     {
       id: "antonine2",
@@ -2160,7 +2227,7 @@ var config = {
       image:
         "https://upload.wikimedia.org/wikipedia/commons/7/72/FDA_History_-_AIDS_Protest_%284898662239%29.jpg?20180128003345",
       caption:
-        "In 1988 the AIDS Coalition to Unleash Power (ACT-UP) organized a demonstration at FDA headquarters in Rockville, Maryland, to protest for greater access to investigational drugs to help treat AIDS patients. (Wellcome Collection)",
+        "In 1988 the AIDS Coalition to Unleash Power (ACT-UP) organized a demonstration at FDA headquarters in Rockville, Maryland, to protest for greater access to investigational drugs to help treat AIDS patients. (Wikimedia Commons)",
       website: "",
       author: "",
       legend:
