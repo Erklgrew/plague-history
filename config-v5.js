@@ -2477,10 +2477,39 @@ var config = {
         },
       ],
       onChapterExit: [
-        {
-          layer: "settlement-major-label",
+         {
+          layer: "roman-empire-180",
           opacity: 0,
         },
+        {
+          layer: "mex-lang",
+          opacity: 0,
+        },
+        {
+          layer: "blackdeath",
+          opacity: 0,
+        },
+        {
+          layer: "byzantium",
+          opacity: 0,
+        },
+        {
+          layer: "traderoutes",
+          opacity: 0,
+        },
+        {
+          layer: "hiv-share",
+          opacity: 0,
+        },
+        {
+          layer: "covid-19",
+          opacity: 0,
+        },
+        {
+          layer: "johnsnowdata",
+          opacity: 0,
+        },
+        
       ],
     },
   ],
