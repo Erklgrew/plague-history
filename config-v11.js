@@ -2430,7 +2430,7 @@ var config = {
       website: "",
       author: "",
       legend:
-        '<span style="font-size: 0.85em;"><em><b>COVID-19 Pandemic</b><br>COVID-19<br>2019–Present<br>6.7–28.1 million dead<br></br><a href="https://ourworldindata.org/coronavirus#explore-the-global-situation" target="_blank" rel="noopener">Deaths per million from COVID-19</a>:<br><span class="dot-hiv0"></span> 5,000+<br><span class="dot-hiv1"></span> 4,000–5,000<br><span class="dot-hiv2"></span> 3,000-4,000<br><span class="dot-hiv3"></span> 2,000-3,000<br><span class="dot-hiv4"></span> 1,000-2,000<br><span class="dot-hiv5"></span> 0-1,000</i></em></span>',
+        '<span style="font-size: 0.85em;"><em><b>COVID-19 Pandemic</b><br>COVID-19<br>2019–Present<br>6.7–28 million dead<br></br><a href="https://ourworldindata.org/coronavirus#explore-the-global-situation" target="_blank" rel="noopener">Deaths per million from COVID-19</a>:<br><span class="dot-hiv0"></span> 5,000+<br><span class="dot-hiv1"></span> 4,000–5,000<br><span class="dot-hiv2"></span> 3,000-4,000<br><span class="dot-hiv3"></span> 2,000-3,000<br><span class="dot-hiv4"></span> 1,000-2,000<br><span class="dot-hiv5"></span> 0-1,000</i></em></span>',
       description:
         "The general consensus is that the coronavirus known as SARS-CoV-2 spilled over from animals to humans, likely late in 2019. As yet, however, it is unclear whether the spillover occurred naturally or was the result of an accident in a laboratory studying coronaviruses.",
       location: {
@@ -2464,7 +2464,7 @@ var config = {
       website: "",
       author: "",
       legend:
-        '<span style="font-size: 0.85em;"><em><b>COVID-19 Pandemic</b><br>COVID-19<br>2019–Present<br>6.7–28.1 million dead<br></br><a href="https://ourworldindata.org/coronavirus#explore-the-global-situation" target="_blank" rel="noopener">Deaths per million from COVID-19</a>:<br><span class="dot-hiv0"></span> 5,000+<br><span class="dot-hiv1"></span> 4,000–5,000<br><span class="dot-hiv2"></span> 3,000-4,000<br><span class="dot-hiv3"></span> 2,000-3,000<br><span class="dot-hiv4"></span> 1,000-2,000<br><span class="dot-hiv5"></span> 0-1,000</i></em></span>',
+        '<span style="font-size: 0.85em;"><em><b>COVID-19 Pandemic</b><br>COVID-19<br>2019–Present<br>6.7–28 million dead<br></br><a href="https://ourworldindata.org/coronavirus#explore-the-global-situation" target="_blank" rel="noopener">Deaths per million from COVID-19</a>:<br><span class="dot-hiv0"></span> 5,000+<br><span class="dot-hiv1"></span> 4,000–5,000<br><span class="dot-hiv2"></span> 3,000-4,000<br><span class="dot-hiv3"></span> 2,000-3,000<br><span class="dot-hiv4"></span> 1,000-2,000<br><span class="dot-hiv5"></span> 0-1,000</i></em></span>',
       description:
         "Since then, it is estimated that somewhere between <a href='https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates'>6.7 and 28.1 million people have died</a>.",
       location: {
