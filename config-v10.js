@@ -623,7 +623,7 @@ var config = {
       website: "",
       author: "",
       legend:
-        '<span style="font-size: 0.85em;"><em><b>The Black Death</b><br>Bubonic Plague<br>1346–1353 C.E.<br>75–200 million dead<br>Map: <a href="https://www.pnas.org/doi/10.1073/pnas.1412887112" target="_blank" rel="noopener">14th century maritime trade networks</a></em><br></br><span class="dot-trade-ven"></span> Venetian trade networks<br><span class="dot-trade-eur"></span> Other European networks</span>',
+        '<span style="font-size: 0.85em;"><em><b>The Black Death</b><br>Bubonic Plague<br>1346–1353 C.E.<br>25+ million dead<br>Map: <a href="https://www.pnas.org/doi/10.1073/pnas.1412887112" target="_blank" rel="noopener">14th century maritime trade networks</a></em><br></br><span class="dot-trade-ven"></span> Venetian trade networks<br><span class="dot-trade-eur"></span> Other European networks</span>',
       description:
         "In the mid–14th century, large Italian cities managed an <a href='https://www.jstage.jst.go.jp/article/ase/125/1/125_161011/_html/-char/en'>expansive trading network</a>. With a growing population of around 12.5 million, large quantities of grain and flour were imported, with large trade networks established across Europe.",
       location: {
@@ -672,7 +672,7 @@ var config = {
       caption: "",
       author: "",
       legend:
-        '<span style="font-size: 0.85em;"><em><b>The Black Death</b><br>Bubonic Plague<br>1346–1353 C.E.<br>75–200 million dead<br>Map: <a href="https://www.pnas.org/doi/10.1073/pnas.1412887112" target="_blank" rel="noopener">14th century maritime trade networks</a></em><br></br><span class="dot-trade-ven"></span> Venetian trade networks<br><span class="dot-trade-eur"></span> Other European networks</span>',
+        '<span style="font-size: 0.85em;"><em><b>The Black Death</b><br>Bubonic Plague<br>1346–1353 C.E.<br>25+ million dead<br>Map: <a href="https://www.pnas.org/doi/10.1073/pnas.1412887112" target="_blank" rel="noopener">14th century maritime trade networks</a></em><br></br><span class="dot-trade-ven"></span> Venetian trade networks<br><span class="dot-trade-eur"></span> Other European networks</span>',
       description:
         "That trading network became a breeding ground for squirrels and black rats, which carry rat fleas, thought to be the main transmitter of bubonic plague to humans. Specifically, <a href='https://www.jstor.org/stable/pdf/24936021.pdf?refreqid=excelsior%3A3df0648da520fb289f810334888e8c76&amp;ab_segments=&amp;origin='>merchant ships sailing from the Black Sea</a> into Italy are thought to have been the source of the bubonic plague outbreak in 1348. In Venice, ships traveling from infected ports would be required to wait 40 days before landing, to prevent the disease from spreading. Today, this practice is known as <a href='https://www.cdc.gov/quarantine/historyquarantine.html'>quarantine</a>, from the Italian <em>quaranta giorni</em>, meaning 40 days.",
       location: {
@@ -748,7 +748,7 @@ var config = {
       website: "",
       author: "",
       legend:
-        '<span style="font-size: 0.85em;"><em><b>The Black Death</b><br>Bubonic Plague<br>1346–1353 C.E.<br>75–200 million dead</span>',
+        '<span style="font-size: 0.85em;"><em><b>The Black Death</b><br>Bubonic Plague<br>1346–1353 C.E.<br>25+ million dead</span>',
       description:
         "The Black Death marks the beginning of the second plague pandemic. The plague eventually became endemic and recurred regularly, but the second plague pandemic did not end until <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6775055/'>the late 18th-century</a>. Outbreaks of plague still occur today, but the disease is now <a href='https://www.cdc.gov/plague/index.html'>treatable</a> with antibiotics.",
       location: {
