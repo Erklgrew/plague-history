@@ -794,7 +794,7 @@ var config = {
       website: "",
       author: "",
       legend:
-        '<span style="font-size: 0.85em;"><em><b>1520 Mexico Smallpox Epidemic</b><br>Smallpox<br>1520 C.E.<br>5–8 million dead<br>Map: <a href="https://ecoevocommunity.nature.com/posts/30037-mixtecs-aztecs-and-the-great-cocoliztli-epidemic-of-ad-1545-1550" target="_blank" rel="noopener"><em>Aztec and Mixtec areas of influence at the time of European contact</a><br></br><span class="dot-hiv0"></span> Aztec controlled areas, circa 1520<br><span class="dot-hiv3"></span> Mixtec language areas</i></em></em></span>',
+        '<span style="font-size: 0.85em;"><em><b>1520 Mexico Smallpox Epidemic</b><br>Smallpox<br>1520 C.E.<br>5–8 million dead<br>Map: <a href="https://ecoevocommunity.nature.com/posts/30037-mixtecs-aztecs-and-the-great-cocoliztli-epidemic-of-ad-1545-1550" target="_blank" rel="noopener"><em>Aztec and Mixtec areas of influence at the time of European contact</a><br></br><span class="dot-hiv5"></span> Aztec controlled areas, circa 1520<br><span class="dot-hiv2"></span> Mixtec language areas</i></em></em></span>',
       description:
         "The Spanish conquest of 16th-century Mexico resulted in one of the most dramatic population collapses in human history. At the time of the Spanish arrival, there were 15 million to 30 million native inhabitants, but the native population would be <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2730237/'>decimated by the end of the century</a>.",
       location: {
